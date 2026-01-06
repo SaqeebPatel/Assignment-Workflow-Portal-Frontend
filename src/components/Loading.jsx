@@ -1,0 +1,1 @@
+export default function Loading(){ return <div class='p-10 text-center'>Loading...</div> }
